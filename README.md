@@ -28,3 +28,6 @@ Before the start of each session, please add your initials to the homework filen
 | 4 | "XArray DataArray and Pandas DataFrame Construction" | Working Labelled Datasets in Behavioral Experiments using XArray and Pandas |
 | 5 | "Practice: Pandas Analysis" | Using Declarative Programming for Advanced Plots with Seaborn |
 | 6 | TBD | TBD |
+
+## Contributors
+- Martha Rimniceanu
